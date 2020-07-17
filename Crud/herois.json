@@ -1,0 +1,17 @@
+[
+    {
+        "nome":"Flash",
+        "poder":"speed",
+        "id":1
+    },
+    {
+        "nome":"IronMan",
+        "poder":"Power",
+        "id":2
+    },
+    {
+        "nome":"Hulk",
+        "poder":"Power",
+        "id":3
+    }
+]
